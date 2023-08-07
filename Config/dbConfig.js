@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "database-1.cdkjewzed0yv.ap-south-1.rds.amazonaws.com",
+  HOST: "",
   USER: "admin",
-  PASSWORD: "Akshay973042",
+  PASSWORD: "",
   DB: "node_sequelize_api_db",
   dialect: "mysql",
 
